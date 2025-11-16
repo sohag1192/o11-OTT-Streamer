@@ -2,10 +2,13 @@
 
 
 
+
 ### 📖 Key Points from the README
 - **Project Name:** O11 OTT Streamer  
-- **Purpose:** A DRM-capable OTT streaming tool (mentions Widevine and PlayReady).  
+- **Purpose:** A DRM-capable OTT streaming tool (mentions Widevine and PlayReady).
+- 
 - **Installation Instructions:**
+- 
   ```bash
   sudo apt-get update
   cd /home
