@@ -1,25 +1,25 @@
+# o11-OTT-Streamer
+---
 
-####################
-# O11 OTT Streamer #
-####################
+### 📖 Key Points from the README
+- **Project Name:** O11 OTT Streamer  
+- **Purpose:** A DRM-capable OTT streaming tool (mentions Widevine and PlayReady).  
+- **Installation Instructions:**
+  ```bash
+  sudo apt-get update
+  cd /home
+  git clone https://github.com/DRM-Scripts/o11-OTT-Streamer
+  cd o11-OTT-Streamer
+  chmod 777 ./o11_streamer
+  ./o11_streamer
+  ```
+- **Dashboard Access:**  
+  After running, the dashboard is available at:
+  ```
+  http://serverip:123
+  ```
+- **How-To Video:**  
+  Linked tutorial: [Vimeo](https://vimeo.com/805017036) (note: author states they do not own this video).  
+- **Support:**  
+  No official support is provided — the tool is offered *as-is*.  
 
-# Install Instrustions
-
-    sudo apt-get update
-    cd /home
-    git clone https://github.com/DRM-Scripts/o11-OTT-Streamer
-    cd o11-OTT-Streamer
-    chmod 777 ./o11_streamer
-    ./o11_streamer
-
-# Dashboard
-
-http://serverip:123
-
-# How To
-
-Video: https://vimeo.com/805017036 - I do not own this video
-
-# Support
-
-There is none, provided as is.
